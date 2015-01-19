@@ -1,1 +1,0 @@
-{"virtualbox":{"/vagrant":{"guestpath":"/vagrant","hostpath":"/home/brian/Development/pop","disabled":false},"/srv":{"guestpath":"/srv","hostpath":"/home/brian/Development/pop/salt/roots","disabled":false}}}
