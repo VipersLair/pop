@@ -1,3 +1,4 @@
 base:
   '*':
     - essentials
+    - tcptunnel
